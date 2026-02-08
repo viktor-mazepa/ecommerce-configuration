@@ -1,4 +1,4 @@
-# configuration
+# ecommerce-configuration
 
 Infrastructure and runtime configuration for the scalable ecommerce platform. This project provides Docker Compose, database initialization, and Keycloak realm import files so local development matches the platform specification.
 
