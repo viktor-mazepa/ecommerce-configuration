@@ -38,23 +38,6 @@
       "secret": "change-me-admin-secret",
       "attributes": {
         "access.token.lifespan": "300"
-      },
-      "serviceAccountRoles": {
-        "realm-management": [
-          "query-clients",
-          "query-groups",
-          "view-authorization",
-          "view-users",
-          "query-realms",
-          "manage-users",
-          "query-users",
-          "view-identity-providers",
-          "view-events",
-          "manage-realm",
-          "view-realm",
-          "manage-clients",
-          "view-clients"
-        ]
       }
     },
     {
